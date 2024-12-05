@@ -1,0 +1,22 @@
+# Unity-specific folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# User-specific settings
+UserSettings/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.idea
+*.vs/
+.vscode/
