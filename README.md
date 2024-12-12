@@ -9,7 +9,10 @@ It will open with an empty scene. The provided SampleScene can be found in the a
 
 <img width="659" alt="image" src="https://github.com/user-attachments/assets/30b6d87e-e344-498d-a501-8d5f0ea04a28" />
 
-To start the Lipsync with the predefined audio, press the play button on top of Unity:
+## LipSync:
+
+In the provided scene the Talky Walky avatar is already connected to a Lipsync with a predefined audio File.
+To start the Lipsync in this option, simply press the play button on top of Unity:
 
 <img width="748" alt="image" src="https://github.com/user-attachments/assets/ce57ed65-63c6-4767-8543-3e8a93d00dfd" />
 
