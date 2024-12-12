@@ -11,9 +11,13 @@ It will open with an empty scene. The avatars can be added to the scene by drag 
 Animation:
 To activate the animation for one of the avatars, the avatar needs to be selected in the scene and its Controller has to be changed to the wished Animation
 (provided example "dancing")
+
 <img width="328" alt="image" src="https://github.com/user-attachments/assets/fae54aa7-c60c-412f-b374-3286407094f0" />
+
 If wished, the animation can be changed by double-clicking the Controller in the assets overview.
+
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/c19a4a8a-e30e-44bb-9663-cadc8e83540a" />
+
 The yellow marked boxes in the picture above are the provided animations. They can be applied and connected in the controller by drag and drop from the asset folder into the space above. Please note, that the animations need to be connected through arrows in order to be played.
 New animations can be added by drag and drop into the asset folder.
 
