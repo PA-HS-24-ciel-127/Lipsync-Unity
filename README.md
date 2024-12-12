@@ -30,6 +30,7 @@ Afterwards the audio input needs to be set to none.
 
 Again, it can be tested and played by pressing the play button.
 
+More details are provided in the mentioned YouTube Tutorial.
 
 ## Animation:
 
