@@ -468,7 +468,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f4e9ffa04cee1904084a2aedb3ce47dc, type: 3}
       propertyPath: m_Name
-      value: walky_talky
+      value: talky_walky
       objectReference: {fileID: 0}
     - target: {fileID: 5445446236282412991, guid: f4e9ffa04cee1904084a2aedb3ce47dc, type: 3}
       propertyPath: m_DirtyAABB
