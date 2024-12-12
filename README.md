@@ -7,13 +7,14 @@ The project can than be added and opened through the Unity Hub.
 
 It will open with an empty scene. The provided SampleScene can be found in the asset folder under scenes and can be opened with a double-click.
 
-<img width="659" alt="image" src="https://github.com/user-attachments/assets/30b6d87e-e344-498d-a501-8d5f0ea04a28" />
+<img width="748" alt="image" src="https://github.com/user-attachments/assets/ce57ed65-63c6-4767-8543-3e8a93d00dfd" />
 
 To start the Lipsync with the predefined audio, press the play button on top of Unity:
 
-<img width="748" alt="image" src="https://github.com/user-attachments/assets/ce57ed65-63c6-4767-8543-3e8a93d00dfd" />
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/30b6d87e-e344-498d-a501-8d5f0ea04a28" />
 
 LipSync via Microfon:
+
 In order to change the input audio to the Microfon, the ULipSync Element needs to be selected and a new "U LipSync Microphone (Script)" Component needs to be added.
 
 <img width="297" alt="image" src="https://github.com/user-attachments/assets/8b1737ac-9818-4ddf-86fd-cad2eab37047" />
@@ -21,6 +22,8 @@ In order to change the input audio to the Microfon, the ULipSync Element needs t
 Afterwards the audio input needs to be set to none.
 
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/dcf0a530-5145-4186-ac82-3f85f9c11aab" />
+
+Again, it can be tested and played by pressing the play button.
 
 
 Animation:
