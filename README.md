@@ -7,11 +7,11 @@ The project can than be added and opened through the Unity Hub.
 
 It will open with an empty scene. The provided SampleScene can be found in the asset folder under scenes and can be opened with a double-click.
 
-<img width="748" alt="image" src="https://github.com/user-attachments/assets/ce57ed65-63c6-4767-8543-3e8a93d00dfd" />
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/30b6d87e-e344-498d-a501-8d5f0ea04a28" />
 
 To start the Lipsync with the predefined audio, press the play button on top of Unity:
 
-<img width="659" alt="image" src="https://github.com/user-attachments/assets/30b6d87e-e344-498d-a501-8d5f0ea04a28" />
+<img width="748" alt="image" src="https://github.com/user-attachments/assets/ce57ed65-63c6-4767-8543-3e8a93d00dfd" />
 
 LipSync via Microfon:
 
