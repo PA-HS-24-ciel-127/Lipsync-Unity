@@ -16,6 +16,8 @@ To start the Lipsync in this option, simply press the play button on top of Unit
 
 <img width="748" alt="image" src="https://github.com/user-attachments/assets/ce57ed65-63c6-4767-8543-3e8a93d00dfd" />
 
+The LipSync Tool is a powerful tool, that can be changed and customized according to your needs. To understand more details, we recommend to follow the [YouTube Tutorial from ReForge Mode](https://www.youtube.com/watch?v=k5CtTsIKwE4) to get the basic understanding.
+
 ## LipSync via Microfon:
 
 In order to change the input audio to the Microfon, the ULipSync Element needs to be selected and a new "U LipSync Microphone (Script)" Component needs to be added.
