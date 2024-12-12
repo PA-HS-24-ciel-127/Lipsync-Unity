@@ -13,7 +13,7 @@ To start the Lipsync with the predefined audio, press the play button on top of 
 
 <img width="748" alt="image" src="https://github.com/user-attachments/assets/ce57ed65-63c6-4767-8543-3e8a93d00dfd" />
 
-LipSync via Microfon:
+## LipSync via Microfon:
 
 In order to change the input audio to the Microfon, the ULipSync Element needs to be selected and a new "U LipSync Microphone (Script)" Component needs to be added.
 
@@ -26,8 +26,9 @@ Afterwards the audio input needs to be set to none.
 Again, it can be tested and played by pressing the play button.
 
 
-Animation:
-To activate the animation for the avatar, the Talky Walky needs to be selected in the scene and its Controller has to be changed to the wished Animation Controller
+## Animation:
+
+To activate an animation for the avatar, the Talky Walky needs to be selected in the scene and its Controller has to be changed to the wished Animation Controller
 (provided example "dancing")
 
 <img width="328" alt="image" src="https://github.com/user-attachments/assets/fae54aa7-c60c-412f-b374-3286407094f0" />
