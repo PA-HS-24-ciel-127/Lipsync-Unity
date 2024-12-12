@@ -1,6 +1,6 @@
 # Lipsync-Unity
 
-This repository contains a unity project that shows an animated avatar from blender kit (LINK) as well as the Talky Walky avatar, which can be connected with Lipsync.
+This repository contains a unity project that shows an [animated avatar from blender kit](https://www.blenderkit.com/get-blenderkit/450e765a-514d-4a4d-87c1-0718cb888fcb/?from_addon=True) as well as the Talky Walky avatar, which can be connected with Lipsync.
 
 In order to run it, Unity must be installed from the official [unity webpage](https://unity.com/products).
 The project can than be added and opened through the Unity Hub.
